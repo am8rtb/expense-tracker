@@ -9,6 +9,11 @@ env/
 # App data
 expenses.json
 
+# PyInstaller build output
+build/
+dist/
+*.spec
+
 # OS / IDE
 .DS_Store
 .idea/
